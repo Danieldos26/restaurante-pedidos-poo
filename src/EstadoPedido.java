@@ -1,5 +1,7 @@
 package src;
 
-public class EstadoPedidio {
-    
+public enum EstadoPedido {
+    EN_PREPARACION,
+    LISTO_PARA_ENTREGAR,
+    ENTREGADO
 }
