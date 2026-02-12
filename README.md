@@ -1,10 +1,10 @@
-# Proyecto: Pedido de Restaurante
+Proyecto: Pedido de Restaurante
 Trabajo de Programación Orientada a Objetos (POO) en Java  
 Autores: **Daniel Dos Santos Ferreira** y **Andrés Ramos Guerra**
 
 ----------------------
 
-##  Descripción del proyecto
+Descripción del proyecto
 
 Este proyecto simula el sistema de pedidos de un restaurante utilizando conceptos de POO en Java:
 
@@ -29,7 +29,7 @@ El programa permite:
 
 ----------------------
 
-##  Estructura del proyecto
+Estructura del proyecto
 
 src/
   Articulo.java
@@ -40,7 +40,7 @@ src/
 
 ----------------------
 
-##  Cómo ejecutar el programa
+Cómo ejecutar el programa
 
 1. Clona el repositorio
 2. Abre la carpeta en Visual Studio Code o tu IDE favorito  
@@ -49,7 +49,7 @@ src/
 
 ----------------------
 
-##  Ejemplos incluidos
+Ejemplos incluidos
 
 La clase `Main.java` contiene varios escenarios:
 
@@ -60,7 +60,7 @@ La clase `Main.java` contiene varios escenarios:
 
 ----------------------
 
-##  Trabajo en pareja
+Trabajo en pareja
 
 Este proyecto ha sido desarrollado en colaboración utilizando:
 
@@ -72,7 +72,7 @@ Historial de commits de ambos autores
 
 ----------------------
 
-##  Entrega
+Entrega
 
 El repositorio incluye:
 
