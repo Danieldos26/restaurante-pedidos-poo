@@ -1,4 +1,4 @@
-# 🍽️Proyecto: Pedido de Restaurante🍽️
+# Proyecto: Pedido de Restaurante
 Trabajo de Programación Orientada a Objetos (POO) en Java  
 Autores: **Daniel Dos Santos Ferreira** y **Andrés Ramos Guerra**
 
@@ -79,4 +79,4 @@ El repositorio incluye:
 Código fuente completo  
 README.md  
 Estructura limpia y organizada  
-
+🕺​
